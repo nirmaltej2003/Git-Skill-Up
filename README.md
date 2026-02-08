@@ -1,4 +1,4 @@
---------------------------------------------------
+
 VERSION CONTROL SYSTEM
 --------------------------------------------------
 
@@ -9,7 +9,7 @@ A Version Control System (VCS) is a tool used in software development and collab
 - Revert to earlier states of the project if needed
 - Maintain a detailed and structured history of the project’s evolution
 
---------------------------------------------------
+
 WORKING OF VERSION CONTROL SYSTEM
 --------------------------------------------------
 
@@ -19,7 +19,7 @@ WORKING OF VERSION CONTROL SYSTEM
 - Changes made by one developer can be shared with others
 - This setup maintains a centralized or distributed project history
 
---------------------------------------------------
+
 COMPONENTS OF VERSION CONTROL SYSTEMS
 --------------------------------------------------
 
@@ -43,7 +43,7 @@ Commit
 - A snapshot of changes at a specific time
 - Used to track project history
 
---------------------------------------------------
+
 TYPES OF VERSION CONTROL SYSTEMS
 --------------------------------------------------
 
@@ -57,7 +57,7 @@ Characteristics:
 - Limited to single-user environments
 - No collaboration support
 
---------------------------------------------------
+
 
 2. **Centralized Version Control System (CVCS)**
 
@@ -80,7 +80,7 @@ Examples:
 - SVN
 - CVS
 
---------------------------------------------------
+
 
 3. **Distributed Version Control System (DVCS)**
 
@@ -104,7 +104,7 @@ Examples:
 - Git
 - Mercurial
 
---------------------------------------------------
+
 POPULAR VERSION CONTROL SYSTEMS
 --------------------------------------------------
 
@@ -118,7 +118,7 @@ Features:
 - Supports commands like git clone, git pull and git push
 - Backbone of GitHub, GitLab and Bitbucket
 
---------------------------------------------------
+
 
 2. **Subversion (SVN)**
 
@@ -129,7 +129,7 @@ Features:
 - Supports branching and tagging
 - Versions both files and directories
 
---------------------------------------------------
+
 
 3. **Mercurial**
 
@@ -140,7 +140,7 @@ Features:
 - Supports branching and merging
 - Suitable for small and large projects
 
---------------------------------------------------
+
 
 4. **CVS (Concurrent Versions System)**
 
@@ -152,7 +152,7 @@ Features:
 - Supports basic branching and tagging
 - Foundation for later tools like SVN and Git
 
---------------------------------------------------
+
 
 5. **Bazaar**
 
