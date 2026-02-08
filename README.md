@@ -47,7 +47,7 @@ Commit
 TYPES OF VERSION CONTROL SYSTEMS
 --------------------------------------------------
 
-1. **Local Version Control System (Local VCS)**
+1️⃣ **Local Version Control System (Local VCS)**
 
 A Local Version Control System works only on a personal machine. All changes and version history are stored locally.
 
@@ -59,7 +59,7 @@ Characteristics:
 
 
 
-2. **Centralized Version Control System (CVCS)**
+2️⃣ **Centralized Version Control System (CVCS)**
 
 In a centralized system, all files and their history are stored on a single central server.
 
@@ -82,7 +82,7 @@ Examples:
 
 
 
-3. **Distributed Version Control System (DVCS)**
+3️⃣ **Distributed Version Control System (DVCS)**
 
 In distributed systems, each developer has a local repository and working copy.
 
@@ -108,7 +108,7 @@ Examples:
 POPULAR VERSION CONTROL SYSTEMS
 --------------------------------------------------
 
-1. **Git**
+1️⃣ **Git**
 
 Git is a distributed version control system developed by Linus Torvalds in 2005 for managing the Linux kernel. It is widely used in modern software development.
 
@@ -120,7 +120,7 @@ Features:
 
 
 
-2. **Subversion (SVN)**
+2️⃣ **Subversion (SVN)**
 
 Subversion is a centralized version control system commonly used in enterprises.
 
@@ -131,7 +131,7 @@ Features:
 
 
 
-3. **Mercurial**
+3️⃣ **Mercurial**
 
 Mercurial is a distributed version control system similar to Git with a simpler interface.
 
@@ -142,7 +142,7 @@ Features:
 
 
 
-4. **CVS (Concurrent Versions System)**
+4️⃣ **CVS (Concurrent Versions System)**
 
 CVS is one of the earliest centralized version control systems.
 
@@ -154,7 +154,7 @@ Features:
 
 
 
-5. **Bazaar**
+5️⃣ **Bazaar**
 
 Bazaar is a distributed version control system developed by Canonical.
 
