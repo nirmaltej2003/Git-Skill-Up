@@ -12,6 +12,7 @@ A Version Control System (VCS) is a tool used in software development and collab
 
 WORKING OF VERSION CONTROL SYSTEM
 --------------------------------------------------
+![image](https://github.com/nirmaltej2003/Git-Skill-Up/blob/main/Screenshot%202026-02-08%20080357.png)
 
 - The repository stores the project files on a server
 - Multiple developers connect to the repository
