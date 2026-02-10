@@ -1,6 +1,5 @@
 
-VERSION CONTROL SYSTEM
---------------------------------------------------
+## VERSION CONTROL SYSTEM
 
 A Version Control System (VCS) is a tool used in software development and collaborative projects to track and manage changes to source code. It allows developers to:
 
@@ -10,8 +9,8 @@ A Version Control System (VCS) is a tool used in software development and collab
 - Maintain a detailed and structured history of the project’s evolution
 
 
-WORKING OF VERSION CONTROL SYSTEM
---------------------------------------------------
+## WORKING OF VERSION CONTROL SYSTEM
+
 ![image](https://github.com/nirmaltej2003/Git-Skill-Up/blob/main/Screenshot%202026-02-08%20080357.png)
 
 - The repository stores the project files on a server
@@ -21,8 +20,7 @@ WORKING OF VERSION CONTROL SYSTEM
 - This setup maintains a centralized or distributed project history
 
 
-COMPONENTS OF VERSION CONTROL SYSTEMS
---------------------------------------------------
+## COMPONENTS OF VERSION CONTROL SYSTEMS
 
 Repository
 - A central location that stores all project files
@@ -45,8 +43,7 @@ Commit
 - Used to track project history
 
 
-TYPES OF VERSION CONTROL SYSTEMS
---------------------------------------------------
+## TYPES OF VERSION CONTROL SYSTEMS
 
 1️⃣ **Local Version Control System (Local VCS)**
 
@@ -57,8 +54,6 @@ Characteristics:
 - Suitable for individual projects
 - Limited to single-user environments
 - No collaboration support
-
-
 
 2️⃣ **Centralized Version Control System (CVCS)**
 
@@ -80,8 +75,6 @@ Disadvantages:
 Examples:
 - SVN
 - CVS
-
-
 
 3️⃣ **Distributed Version Control System (DVCS)**
 
@@ -105,9 +98,7 @@ Examples:
 - Git
 - Mercurial
 
-
-POPULAR VERSION CONTROL SYSTEMS
---------------------------------------------------
+## POPULAR VERSION CONTROL SYSTEMS
 
 1️⃣ **Git**
 
@@ -119,8 +110,6 @@ Features:
 - Supports commands like git clone, git pull and git push
 - Backbone of GitHub, GitLab and Bitbucket
 
-
-
 2️⃣ **Subversion (SVN)**
 
 Subversion is a centralized version control system commonly used in enterprises.
@@ -129,8 +118,6 @@ Features:
 - Single central repository
 - Supports branching and tagging
 - Versions both files and directories
-
-
 
 3️⃣ **Mercurial**
 
@@ -141,8 +128,6 @@ Features:
 - Supports branching and merging
 - Suitable for small and large projects
 
-
-
 4️⃣ **CVS (Concurrent Versions System)**
 
 CVS is one of the earliest centralized version control systems.
@@ -152,8 +137,6 @@ Features:
 - Tracks changes to individual files
 - Supports basic branching and tagging
 - Foundation for later tools like SVN and Git
-
-
 
 5️⃣ **Bazaar**
 
@@ -212,6 +195,7 @@ Examples: Git, Mercurial, Bazaar
 - Large or distributed teams
 - Open-source projects
 - Projects needing frequent branching and merging
+  
 
 ## CVCS vs DVCS Comparison
 
