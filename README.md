@@ -165,7 +165,7 @@ Features:
 - Cross-platform support
 - Used in projects like Ubuntu and MySQL
 
-# Version Control Systems (VCS)
+# Centralized Vs Distributed Version Control
 
 Version control enables organized code management and collaboration.
 There are two main types of version control systems:
