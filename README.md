@@ -165,3 +165,62 @@ Features:
 - Cross-platform support
 - Used in projects like Ubuntu and MySQL
 
+# Version Control Systems (VCS)
+
+Version control enables organized code management and collaboration.
+There are two main types of version control systems:
+1. Centralized Version Control (CVCS)
+2. Distributed Version Control (DVCS)
+
+The choice depends on the nature and scale of the project.
+
+## 1️⃣ Centralized Version Control (CVCS)
+
+Centralized Version Control (CVCS) uses a single central repository
+where all project code is stored. Developers access this repository
+to make changes.
+
+Examples: SVN, CVS
+
+### Features of CVCS
+- Single central repository for all files
+- Centralized version history
+- Real-time collaboration
+- Simple to set up and understand
+
+### Use Cases of CVCS
+- Small teams working closely
+- Projects needing real-time code access
+- Organizations requiring strict control
+
+
+## 2️⃣ Distributed Version Control (DVCS)
+
+Distributed Version Control (DVCS) allows each developer to have
+a complete local copy of the repository, including full history.
+
+Examples: Git, Mercurial, Bazaar
+
+### Features of DVCS
+- Complete local repositories
+- Offline work and local commits
+- Easy branching and merging
+- No single point of failure
+- Decentralized collaboration
+
+### Use Cases of DVCS
+- Large or distributed teams
+- Open-source projects
+- Projects needing frequent branching and merging
+
+## CVCS vs DVCS Comparison
+
+| Centralized Version Control (CVCS) | Distributed Version Control (DVCS) |
+|----------------------------------|-----------------------------------|
+| Single central repository        | Full repository for each developer |
+| Server needed for commits        | Offline commits possible           |
+| Slower operations               | Faster local operations            |
+| Harder branching and merging    | Easy branching and merging         |
+| Single point of failure         | No single point of failure         |
+| Best for small teams            | Best for large and distributed teams |
+
